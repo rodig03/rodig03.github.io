@@ -9,3 +9,6 @@ Amélie is a special woman. Born in Paris as daughter of a military doctor and a
 * Humourous and joyful
 * Different
 
+## Famous quote of Amélie
+> Vous au moins, vous ne risquez pas d'être un légume, puisque même un artichaut a du cœur.
+> You couldn't even be a vegetable — even artichokes have a heart.
